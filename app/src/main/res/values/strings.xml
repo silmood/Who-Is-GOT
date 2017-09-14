@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Who-Is</string>
+
+    <string name="label_true">True</string>
+    <string name="label_false">False</string>
+
+    <string name="arya">Arya Stark</string>
+    <string name="podrick">Podrick</string>
+    <string name="bronn">Bronn</string>
+    <string name="label_correct">Correct! :)</string>
+    <string name="label_incorrect">Incorrecto :(</string>
+
+</resources>
