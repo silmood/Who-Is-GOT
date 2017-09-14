@@ -8,6 +8,8 @@
     <string name="podrick">Podrick</string>
     <string name="bronn">Bronn</string>
     <string name="label_correct">Correct! :)</string>
-    <string name="label_incorrect">Incorrecto :(</string>
+    <string name="label_incorrect">Incorrect :(</string>
+    <string name="label_show_answer">Answer</string>
+    <string name="label_answer">Respuesta</string>
 
 </resources>
